@@ -1,3 +1,5 @@
 # My-Website
 
-Website available [Here] (https://s-n-shreyas.github.io/)
+This is my portfolio website
+
+Website Available [Here](https://s-n-shreyas.github.io/)
